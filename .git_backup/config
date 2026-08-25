@@ -1,0 +1,17 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+	compression = 0
+[remote "origin"]
+	url = git@github.com:ajlaanayan-crypto/isro-satquery-ai.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[http]
+	postBuffer = 524288000
+	version = HTTP/1.1
+	sslVerify = false
+	sslVersion = tlsv1.2
+	curloptResolve = 

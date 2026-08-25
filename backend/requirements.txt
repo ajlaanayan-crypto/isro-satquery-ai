@@ -1,0 +1,24 @@
+# Web Server & Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+
+# AI & LLM Orchestration
+langgraph>=0.0.30
+langchain-core>=0.1.30
+transformers>=4.40.0
+accelerate>=0.29.0
+peft>=0.10.0
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Geospatial & Computer Vision
+rasterio>=1.3.9
+shapely>=2.0.3
+numpy>=1.26.0
+opencv-python-headless>=4.9.0
+
+# Reporting & Cloud Tunnel
+reportlab>=4.1.0
+pyngrok>=7.1.0
