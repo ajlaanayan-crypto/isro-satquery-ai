@@ -52,3 +52,4 @@ env/
 *.bin
 weights/
 
+.git_backup/
