@@ -53,3 +53,19 @@ env/
 weights/
 
 .git_backup/
+
+# Auto-added standard ignores
+*.env
+*.log
+.env
+.env.*.local
+.env.local
+.next/
+.pnp.js
+.pnp/
+.pytest_cache/
+.turbo/
+Thumbs.db
+build/
+dist/
+node_modules/

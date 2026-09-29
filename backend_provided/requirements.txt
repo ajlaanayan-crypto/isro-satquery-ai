@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+rasterio
+numpy
+scikit-image
+python-multipart
+pydantic
